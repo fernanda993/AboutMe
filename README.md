@@ -1,11 +1,11 @@
 # AboutMe
 
-Fernanda Sousa Farias
-Resumo
+## Fernanda Sousa Farias
+**Resumo**
 
 Controle das demandas, acompanhamento do processo interno junto a equipe, participação das discussões e demandas do cliente, planejamento e estimativa de horas de cada melhoria. Gerenciamento de esforço e conflitos. Realizo o suporte ao PO do projeto e realizo a criação das histórias, tarefas e bugs alinhando junto a equipe. Atividades paralelas envolve documentações de auditoria, apresentação de termino das sprints, validação de mudanças do sistema. Assim ci=omo conhecimento de Machine Learning e automação de processos, (sempre buscando melhorar e facilitar o processo).
 
-Experiência
+**Experiência**
 
 T-Systems do Brasil
 
@@ -31,27 +31,8 @@ julho de 2016 - janeiro de 2018 (1 ano 7 meses)
 
 Responsável pela análise e abertura de solicitação de serviços, mudanças e problemas além da criação, monitoramento e encerramentos dos serviços (atividades realizadas em clientes de meios de pagamentos).
 
-T2 Software
 
-Analista de Requisitos
-
-setembro de 2015 - novembro de 2015 (3 meses)
-
-Levantamento e elaboração de Ata de Reunião, criação de cenário de teste, modelagem de dados, ciclo de testes, elaboração e controle dos testes, analise e levantamento de risco de um projeto, criação de PPT com feedback de cada projeto.
-
-Disclinc
-
-Estagio Desenvolvimento - novembro de 2014 - junho de 2015 (8 meses) São Paulo e Região, Brasil
-
-SIGNUS ERP
-
-Implantação de Sistema - maio de 2014 - agosto de 2014 (4 meses)
-
-Hexasolution
-
-Estágio - maio de 2013 - março de 2014 (11 meses) Alphaville
-
-Formação acadêmica
+**Formação acadêmica**
 
 Fundação Getulio Vargas
 
