@@ -1,29 +1,48 @@
-# AboutMe
+# Sobre Mim
 
-## Fernanda Sousa Farias
-**Resumo**
+# 👋 Olá, Eu sou Fernanda Farias!
 
-Controle das demandas, acompanhamento do processo interno junto a equipe, participação das discussões e demandas do cliente, planejamento e estimativa de horas de cada melhoria. Gerenciamento de esforço e conflitos. Realizo o suporte ao PO do projeto e realizo a criação das histórias, tarefas e bugs alinhando junto a equipe. Atividades paralelas envolve documentações de auditoria, apresentação de termino das sprints, validação de mudanças do sistema. Assim ci=omo conhecimento de Machine Learning e automação de processos, (sempre buscando melhorar e facilitar o processo).
+### 📊 Cientista de Dados Júnior | Freelancer | Projetos Remotos
 
-**Experiência**
+Sou um entusiasta de **Data Science, Machine Learning e Deep Learning**, apaixonado por transformar dados em insights valiosos. Estou buscando oportunidades **remotas e freelance** para aplicar minhas habilidades em análise de dados e modelagem preditiva.
 
-***Analista de Qualidade***
-Criação de documentações de auditoria como PPT, documentação técnica, manuais e especificações, criação de Dashboard para controle das Sprints e Acompanhamento da evolução da Sprint (via Azure), levantamento de requisitos baseado no Backlog do Produto, Criação de protótipos, Especificação e acompanhamento do desenvolvimento com a equipe para liberação ao cliente, visita ao cliente, e treinamento ao cliente externo (para multiplicadores). Realização da daily,criação do report semana, alinhamento das demandas com o GP.
+## 🚀 Sobre Mim
 
-***Analista de testes Pleno***
-Criação de MRR (Monthly Recurring Revenue) , testes de desempenho, teste de stress, modelagem de cenários de teste , monitoramento e validação de pequenas demandas, usabilidade (UX) , automação e aprendizagem dos diversos cenários ocorridos no ambiente de produção e validações de regras passadas na especificação EMVco e ISO8583.
+🔹 Formação em **Sistemas da Informação** com especialização em **Data Science**.
+🔹 Experiência em **análise de dados, machine learning e visualização de dados**.
+🔹 Capacidade de extrair insights acionáveis e criar modelos preditivos.
+🔹 Aprimorando minhas habilidades com projetos do Kaggle e desafios de dados.
 
-***Analista de testes de software***
-Responsável pela análise e abertura de solicitação de serviços, mudanças e problemas além da criação, monitoramento e encerramentos dos serviços (atividades realizadas em clientes de meios de pagamentos).
+## 🛠️ Habilidades
 
+✔️ **Linguagens:** Python (Pandas, NumPy, Scikit-Learn), SQL
+✔️ **Machine Learning:** Regressão, Classificação, Clustering, Random Forest
+✔️ **Deep Learning:** Redes Neurais, CNN, TensorFlow, PyTorch
+✔️ **Análise de Dados:** Exploração de dados, Estatística, Feature Engineering
+✔️ **Visualização de Dados:** Matplotlib, Seaborn, Plotly, Power BI
+✔️ **Ferramentas:** Git, Google Colab, Jupyter Notebook, Kaggle, Docker
+✔️ **Soft Skills:** Resolução de Problemas, Pensamento Analítico, Comunicação
 
-**Formação acadêmica**
+## 📂 Projetos Relevantes
 
-***Fundação Getulio Vargas***
-Pós Graduação em Administracao de Empresas, Pós-Graduação em ADM · 
+🔹 [**Análise de Churn de Clientes**](#) – Modelo de ML para prever clientes propensos a cancelar serviços.  
+🔹 [**Previsão de Vendas com Machine Learning**](#) – Utilizando regressão para prever vendas futuras.  
+🔹 [**Análise Sentimental de Tweets**](#) – NLP para classificar sentimentos em postagens do Twitter.  
+🔹 [**Reconhecimento de Imagens com CNN**](#) – Aplicação de Deep Learning para classificação de imagens.  
 
+## 🎯 O Que Estou Buscando
 
-***Curso de Data Science na Awari***
-Realizamos diversas atividades relacionada a manipilação dos dados, assim como soluções de problemas, probabilidades, conversão de dados e coletores.
-Para resolução de problemas é utilizando Python como principal linguagens de programação, introdução e aprofundamento em tecnicas de Machine Learning: como agrupamento, árvores de decisão, redes neurais artificiais, entre outros. Juntamente com o aprofundamento em estatística no qual é utilizados para identificação dos dados tratados e averiguar a veracidade das informações, assim como determinar a media normal e as probabilidades. Utilizando e identificando os melhor DB para cada cituação.
+💼 Projetos **remotos e freelance** de Data Science e Machine Learning.  
+📩 Aberto a colaborações, consultorias e desafios de análise de dados.  
+🚀 Sempre buscando aprender e contribuir para a comunidade de dados!
+
+## 📬 Como Me Encontrar
+Acompanhe minha trajetoria pelos portais.
+
+📧 **E-mail:** sfarias.fernanda@gmail.com  
+💼 [**LinkedIn**](www.linkedin.com/in/fernanda-sousa-farias)  
+🖥️ [**Portfólio Online**](#)
+<!-- 📊 [**Kaggle**](https://www.kaggle.com/seuperfil)  -->
+---
+⭐ Se gostou do meu trabalho, me siga aqui no **GitHub** e vamos colaborar! 🚀
 
